@@ -1,0 +1,21 @@
+*
+
+.container-fluid {
+    background-color: #28A745 ;
+    justify-content: right;
+    
+    
+
+
+}
+
+
+.footer {
+
+align-content: center;
+    text-align: center;
+    background-color: #28A745;
+    padding: 5%;
+    margin: 5%;
+
+}
